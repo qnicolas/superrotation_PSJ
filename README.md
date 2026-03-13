@@ -29,10 +29,10 @@ Several Jupyter notebooks are provided with instructions and code to produce the
 
 ## Data availability
 
-Simulation output is too heavy to be made publicly available, but it is available upon request.
+Simulation output is too heavy to be made publicly available, but you can recreate it by running the simulations yourself (see above). It is also available upon request.
 
 ## Citation
 
-If you use any of the attached code in your work, we simply ask you to cite the paper.
+If you use any of the code in your work, we simply ask you to cite the paper.
 
 For any questions, do not hesitate to email me!

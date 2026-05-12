@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains code to run two-level Dedalus simulations of planetary atmospheres and reproduce the figures appearing in Nicolas & Vallis (2026): Mechanisms of Superrotation in Slowly-Rotating and Tidally-Locked Planets.  
+This folder contains code to run two-level Dedalus simulations of planetary atmospheres and reproduce the figures appearing in [Nicolas & Vallis (2026): Mechanisms of Superrotation in Slowly-Rotating and Tidally-Locked Planets](https://www.doi.org/10.3847/PSJ/ae5c96).  
 
 ## Requirements
 
@@ -33,6 +33,20 @@ Simulation output is too heavy to be made publicly available, but you can recrea
 
 ## Citation
 
-If you use any of the code in your work, we simply ask you to cite the paper.
+If you use any of the code in your work, we simply ask you to cite the paper:
+```
+@article{Nicolas2026,
+doi = {10.3847/PSJ/ae5c96},
+year = {2026},
+month = {may},
+publisher = {The American Astronomical Society},
+volume = {7},
+number = {5},
+pages = {98},
+author = {Nicolas, Quentin and Vallis, Geoffrey K.},
+title = {Mechanisms of superrotation in slowly rotating and tidally locked planets},
+journal = {The Planetary Science Journal}
+}
+```
 
 For any questions, do not hesitate to email me!
